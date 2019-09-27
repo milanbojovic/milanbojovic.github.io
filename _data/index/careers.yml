@@ -1,30 +1,47 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Braintribe
+    i18n: company_c
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Now I work on develompent of document management system  and managing cloud infrastructure. 
+    i18n: company_c_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Sep. 2016
+    i18n: company_c_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Java Software Engineer, Devops
+    i18n: company_c_job
   icon: fa-plus-square
-  present: true
-
+  #icon: fa-keyboard
+  
 - name:
-    detail: Company B
+    detail: Endava
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Here I worked in Adobe's Managed Services Scrum team where I started to work with AWS Cloud, we were building framework for automatic provisioning and software management.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Oct. 2014
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Java Software Engineer
     i18n: company_b_job
   icon: fa-plus-square
+  #icon: fa-keyboard
+
+- name:
+    detail: Allied Testing
+    i18n: company_a
+  desc:
+    detail: Here I've worked in Deutsche Bank's Non Functional Testing team where I started to deal with Linux server systems and performed automatic tests and created reports.
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2013
+    i18n: company_a_date
+  job:
+    detail: Quality Assurance Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  #icon: fa-hammer
+  present: true
