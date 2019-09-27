@@ -12,8 +12,7 @@
   job:
     detail: Java Software Engineer, Devops
     i18n: company_c_job
-  icon: fa-plus-square
-  #icon: fa-keyboard
+  icon: fa-code
   
 - name:
     detail: Endava
@@ -27,8 +26,7 @@
   job:
     detail: Java Software Engineer
     i18n: company_b_job
-  icon: fa-plus-square
-  #icon: fa-keyboard
+  icon: fa-code
 
 - name:
     detail: Allied Testing
@@ -42,6 +40,5 @@
   job:
     detail: Quality Assurance Engineer
     i18n: company_a_job
-  icon: fa-plus-square
-  #icon: fa-hammer
+  icon: fa-bug
   present: true
