@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Interventure
+    detail: InterVenture
     i18n: company_d
   desc:
     detail: I currently work on develompent of banking system.
     i18n: company_d_desc
   date:
-    detail: Nov. 2019
+    detail: Nov. 2019.
     i18n: company_d_date
   job:
     detail: Java Software Engineer (with Back-end/Front-end/QA and Container Orchestration).
@@ -21,7 +21,7 @@
     detail: Here I worked on develompent of document management system and managing cloud infrastructure.
     i18n: company_c_desc
   date:
-    detail: Sep. 2016
+    detail: Sep. 2016.
     i18n: company_c_date
   job:
     detail: Java Software Engineer, Devops
@@ -35,7 +35,7 @@
     detail: Here I worked in Adobe's Managed Services Scrum team where I started to work with AWS Cloud, we were building framework for automatic provisioning and software management.
     i18n: company_b_desc
   date:
-    detail: Oct. 2014
+    detail: Oct. 2014.
     i18n: company_b_date
   job:
     detail: Java Software Engineer
@@ -49,7 +49,7 @@
     detail: Here I've worked in Deutsche Bank's Non Functional Testing team where I started to deal with Linux server systems and performed automatic tests and created reports.
     i18n: company_a_desc
   date:
-    detail: Apr. 2013
+    detail: Apr. 2013.
     i18n: company_a_date
   job:
     detail: Quality Assurance Engineer

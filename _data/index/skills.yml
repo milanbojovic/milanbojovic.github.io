@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, Scala, AWS, GCP, Machine Learing, Python, Bash, Batch, Linux/Unix, Devops, Selenium, Jenkins, SQL, Networking, Html/Css, MongoDB
-percentage: 90, 50, 90, 50, 50, 45, 90, 40, 90, 80, 70, 85, 85, 75, 65, 80
+aspects: Java, Akka, Scala, AngularJs, AWS, GCP, Machine Learing, Python, Bash/Zsh, Batch, Linux/Unix, Devops, Selenium, Jenkins, SQL, Networking, Html/Css, MongoDB
+percentage: 90, 60, 50, 40, 90, 50, 50, 45, 90, 40, 90, 80, 70, 85, 85, 75, 65, 85
