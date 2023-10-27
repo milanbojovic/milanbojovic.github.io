@@ -1,10 +1,24 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: White Hat Gaming
+    i18n: company_e
+  desc:
+    detail: I switched to Scala development. I am working as part of Data team where we are creating, maintaining improving extending reports for our casino clients.
+    i18n: company_e_desc
+  date:
+    detail: Dec. 2021.
+    i18n: company_e_date
+  job:
+    detail: Scala Platform Developer
+    i18n: company_e_job
+  icon: fa-code
+
+- name:
     detail: InterVenture
     i18n: company_d
   desc:
-    detail: I currently work on develompent of banking system.
+    detail: Here I was working on implementation of instant payment system which was sold to EU banks as connection to clearing houses. Very challenging role, Java 8-11, Akka, Kafka, Angular (basic), Docker, K8S, Sonar, Bitbucket, Jenkins.
     i18n: company_d_desc
   date:
     detail: Nov. 2019.
@@ -18,7 +32,7 @@
     detail: Braintribe
     i18n: company_c
   desc:
-    detail: Here I worked on develompent of document management system and managing cloud infrastructure.
+    detail: Here I worked on several projects where we added custom connectors to in-house software which led to creation of document management system. I was also managing cloud infrastructure for the team.
     i18n: company_c_desc
   date:
     detail: Sep. 2016.
@@ -32,7 +46,7 @@
     detail: Endava
     i18n: company_b
   desc:
-    detail: Here I worked in Adobe's Managed Services Scrum team where I started to work with AWS Cloud, we were building framework for automatic provisioning and software management.
+    detail: Here I worked in Adobe's Managed Services Scrum team where I switched to position of Software Engineer and started to work with AWS Cloud, we were building framework for automatic provisioning and software management similar to modern software like Ansimble or Terraform.
     i18n: company_b_desc
   date:
     detail: Oct. 2014.
