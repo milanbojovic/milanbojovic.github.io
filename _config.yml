@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username: milanbojovic  # Leave blank if you don't have now
   twitter_username: milan_bojovic  # Leave blank if you don't have now
   email: milanbojovic@gmail.com  # Leave blank if you don't have now
-  cv: https://www.dropbox.com/scl/fi/ofh8j6cjzotszoo4jcdg5/Milan_Bojovic_CV_brief.pdf?rlkey=f4jo0o2ue1b4brpppa39jvz61&dl=0  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://www.dropbox.com/scl/fi/ucgawefl4ogojy6soag4m/Milan-Bojovic-Resume.pdf?rlkey=4veikbgyjb416etpej3hnn8zo&dl=0  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-java
